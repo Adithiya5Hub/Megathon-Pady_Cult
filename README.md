@@ -25,3 +25,11 @@ Problem statement by - Govt. of Telangana.
 This project was represented in International Indian Institute Technology Hyderabad -Megathon 2023
 
 The Project was represented in the final round of Hackathon! 
+
+# Team(TeraBytes)
+Adithiya (Frontend)
+Bhargav (Backend)
+Gahana (Prenstation/presentator)
+Varsha (Helper)
+Sarthak (presentation)
+
