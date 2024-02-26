@@ -319,6 +319,7 @@ input {
 .home__social-link, 
 .home__info {
   color: var(--white-color);
+  
 }
 
 .home__data-subtitle {
@@ -331,6 +332,7 @@ input {
   font-size: var(--biggest-font-size);
   font-weight: var(--font-medium);
   margin-bottom: var(--mb-2-5);
+  margin-top: 70px;
 }
 
 .home__social {
